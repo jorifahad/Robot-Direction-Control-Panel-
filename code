@@ -5,3 +5,5 @@ CREATE TABLE directions (
 );
 
 SELECT * FROM `directions` WHERE 1;
+
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=robot_control&table=directions
