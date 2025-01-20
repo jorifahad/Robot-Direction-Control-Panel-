@@ -26,6 +26,7 @@ A simple web-based application to control a robot's movement and store/retrieve 
 ---
 
 **Purpose**: This project demonstrates basic interaction between a web interface and a database, making it a great example for beginners in web development and robotics integration.
+![image](https://github.com/user-attachments/assets/3befb80a-0956-4f8c-8e51-3a121edd2093)
 
 ---
 
