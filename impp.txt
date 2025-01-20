@@ -1,0 +1,3 @@
+http://localhost/robot_control/retrieve.php
+
+http://localhost/robot_control/index.html
